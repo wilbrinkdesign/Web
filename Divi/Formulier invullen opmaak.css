@@ -1,0 +1,11 @@
+/* Opmaak success bericht van contactformulier */
+.et-pb-contact-message {
+	text-align: center;
+	color: #ec632b !important;
+	font-family: 'Poppins', Helvetica, Arial, Lucida, sans-serif;
+	font-size: 18px;
+}
+
+.et-pb-contact-message ul {
+	list-style-position: inside;
+}
