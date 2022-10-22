@@ -1,0 +1,9 @@
+/* Kleur opmaak van tekst bij formulier selectvakjes */
+.et_pb_contact_field_options_title {
+	color: #fffef3;
+}
+
+.et_pb_contact p input[type=checkbox]+label i, .et_pb_contact p input[type=radio]+label i
+{
+	background-color: #ec632b;
+}
