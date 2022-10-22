@@ -1,2 +1,2 @@
 # Web
-All kinds of scripts 4 the web.
+Scripts 4 the web.
