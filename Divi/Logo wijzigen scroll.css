@@ -1,0 +1,6 @@
+/* Ander logo tijdens scrollen */
+@media (min-width: 980px) {
+	.et-fixed-header #logo {
+		content: url('/wp-content/uploads/2021/10/wd_logo-full-rgb.png');
+	}
+}
