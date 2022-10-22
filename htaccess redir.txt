@@ -1,0 +1,13 @@
+# Redirect
+Redirect 301 / http://example.com/
+
+# Intro pagina krijgt prio
+DirectoryIndex index.html index.php
+
+# Talen goed doorleiden
+RewriteEngine On
+RewriteRule ^nl/$ /nl/home [R=301,L]
+RewriteRule ^en/$ /en/home [R=301,L]
+
+# 404 pagina's doorleiden
+ErrorDocument 404 /
