@@ -1,0 +1,39 @@
+=== Auto update WP and disable e-mail notifications ===
+Contributors: wilbrinkdesign
+Tags: auto update, update, disable e-mail notifications
+Requires at least: 5.5
+Tested up to: 5.8
+Stable tag: 1.1
+Requires PHP: 7.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Due to security requirements it is very important to keep your WordPress site up-to-date. This plug-in will auto update WordPress Core, Themes, Plug-ins and Translations. E-mail notifications about WordPress updates will be disabled.
+
+== Description ==
+
+Due to security requirements it is very important to keep your WordPress site up-to-date. This plug-in will auto update WordPress Core, Themes, Plug-ins and Translations. E-mail notifications about WordPress updates will be disabled.
+
+== Installation ==
+
+1. You can install this plug-in by searching in WordPress => Plugins => Add New => Search for "Wilbrink Design".
+2. You can install this plug-in by pressing the Download button and upload the .ZIP file in WordPress => Plugins => Add New => Upload Plugin.
+
+== Frequently Asked Questions ==
+
+= How can I install this plug-in? =
+Please check the [plug-in installation guide](https://wordpress.org/plugins/auto-update-wp-and-disable-e-mail-notifications/#installation)
+
+= Can I disable auto updates for example WordPress Core? =
+No, this plug-in will update all WordPress components, no exceptions. It is very important to keep everything up-to-date.
+
+= Can I enable e-mail notification for WordPress updates? =
+No, this plug-in will disable e-mail notifications for WordPress updates. Otherwise you would receive emails on a daily basis because everything is updated almost every day.
+
+== Changelog ==
+
+= Version 1.1 | Aug, 28 2021 =
+* Added auto Core updates for development, minor & major versions.
+
+= Version 1.0 | Aug, 25 2021 =
+* Initial release.
